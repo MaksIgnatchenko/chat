@@ -1,0 +1,51 @@
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm [ Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm] 
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839 [ Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839] 
+
+# User-specific stuff [ User-specific stuff] 
+.idea/**/workspace.xml [ .idea/**/workspace.xml] 
+.idea/**/tasks.xml [ .idea/**/tasks.xml] 
+.idea/**/dictionaries [ .idea/**/dictionaries] 
+.idea/**/shelf [ .idea/**/shelf] 
+
+# Sensitive or high-churn files [ Sensitive or high-churn files] 
+.idea/**/dataSources/ [ .idea/**/dataSources/] 
+.idea/**/dataSources.ids [ .idea/**/dataSources.ids] 
+.idea/**/dataSources.local.xml [ .idea/**/dataSources.local.xml] 
+.idea/**/sqlDataSources.xml [ .idea/**/sqlDataSources.xml] 
+.idea/**/dynamic.xml [ .idea/**/dynamic.xml] 
+.idea/**/uiDesigner.xml [ .idea/**/uiDesigner.xml] 
+
+# Gradle [ Gradle] 
+.idea/**/gradle.xml [ .idea/**/gradle.xml] 
+.idea/**/libraries [ .idea/**/libraries] 
+
+# CMake [ CMake] 
+cmake-build-debug/ [ cmake-build-debug/] 
+cmake-build-release/ [ cmake-build-release/] 
+
+# Mongo Explorer plugin [ Mongo Explorer plugin] 
+.idea/**/mongoSettings.xml [ .idea/**/mongoSettings.xml] 
+
+# File-based project format [ File-based project format] 
+*.iws [ * .iws] 
+
+# IntelliJ [ IntelliJ] 
+out/ [ out/] 
+
+# mpeltonen/sbt-idea plugin [ mpeltonen/sbt-idea plugin] 
+.idea_modules/ [ .idea_modules/] 
+
+# JIRA plugin [ JIRA plugin] 
+atlassian-ide-plugin.xml [ atlassian-ide-plugin.xml] 
+
+# Cursive Clojure plugin [ Cursive Clojure plugin] 
+.idea/replstate.xml [ .idea/replstate.xml] 
+
+# Crashlytics plugin (for Android Studio and IntelliJ) [ Crashlytics plugin (for Android Studio and IntelliJ)] 
+com_crashlytics_export_strings.xml [ com_crashlytics_export_strings.xml] 
+crashlytics.properties [ crashlytics.properties] 
+crashlytics-build.properties [ crashlytics-build.properties] 
+fabric.properties [ fabric.properties] 
+
+# Editor-based Rest Client [ Editor-based Rest Client] 
+.idea/httpRequests [ .idea/httpRequests] 
